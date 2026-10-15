@@ -1,0 +1,5 @@
+[
+  {"idProfesor":"P001","nombre":"Ana","apellidos":"García López","email":"ana.garcia@iesvicentemedina.es","idDepartamento":"INF"},
+  {"idProfesor":"P002","nombre":"Carlos","apellidos":"Martínez Ruiz","email":"carlos.martinez@iesvicentemedina.es","idDepartamento":"MAT"},
+  {"idProfesor":"P003","nombre":"María","apellidos":"Sánchez Pérez","email":"maria.sanchez@iesvicentemedina.es","idDepartamento":"LEN"}
+]

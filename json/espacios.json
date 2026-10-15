@@ -1,0 +1,6 @@
+[
+  {"idEspacio":"E001","nombre":"Aula de Informática 1","tipo":"Aula informática","ubicacion":"Edificio principal","capacidad":24,"equipamiento":"24 PC, proyector","estado":"DISPONIBLE"},
+  {"idEspacio":"E002","nombre":"Aula de Informática 2","tipo":"Aula informática","ubicacion":"Edificio principal","capacidad":20,"equipamiento":"20 PC, proyector","estado":"DISPONIBLE"},
+  {"idEspacio":"E003","nombre":"Aula Magna","tipo":"Salón de actos","ubicacion":"Edificio principal","capacidad":120,"equipamiento":"Proyector, sonido","estado":"DISPONIBLE"},
+  {"idEspacio":"E004","nombre":"Aula ATECA","tipo":"Aula tecnológica","ubicacion":"Edificio principal","capacidad":30,"equipamiento":"Equipamiento tecnológico","estado":"NO_DISPONIBLE"}
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "idReserva":"R001",
+    "fecha":"2026-10-20",
+    "horaInicio":"10:00",
+    "horaFin":"11:00",
+    "estado":"CONFIRMADA",
+    "idProfesor":"P001",
+    "idEspacio":"E001",
+    "motivo":"Práctica de programación",
+    "numAsistentes":20
+  },
+  {
+    "idReserva":"R002",
+    "fecha":"2026-10-21",
+    "horaInicio":"12:00",
+    "horaFin":"13:00",
+    "estado":"CONFIRMADA",
+    "idProfesor":"P002",
+    "idEspacio":"E003",
+    "motivo":"Reunión de departamento",
+    "numAsistentes":15
+  }
+]
