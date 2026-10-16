@@ -1,4 +1,4 @@
 package dao;
 
-public class ReservaDAO {
+public interface ReservaDAO {
 }

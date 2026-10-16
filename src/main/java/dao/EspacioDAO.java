@@ -1,4 +1,4 @@
 package dao;
 
-public class EspacioDAO {
+public interface EspacioDAO {
 }
