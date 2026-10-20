@@ -1,6 +1,8 @@
 package modelo;
 
-public class Departamento {
+import java.io.Serializable;
+
+public class Departamento implements Serializable {
     private String id;
     private String nombre;
 
@@ -11,6 +13,12 @@ public class Departamento {
 
     public String getId() {return id;}
     public void setId(String id) {this.id = id;}
+    public String getIdDepartamento() {return id;}
     public String getNombre() {return nombre;}
     public void setNombre(String nombre) {this.nombre = nombre;}
+
+    @Override
+    public String toString() {
+        return id + " - " + nombre;
+    }
 }

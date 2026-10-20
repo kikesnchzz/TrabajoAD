@@ -1,5 +1,14 @@
 [
-  {"idDepartamento":"INF","nombre":"Informática"},
-  {"idDepartamento":"MAT","nombre":"Matemáticas"},
-  {"idDepartamento":"LEN","nombre":"Lengua Castellana"}
+  {
+    "idDepartamento": "INF",
+    "nombre": "Informática"
+  },
+  {
+    "idDepartamento": "MAT",
+    "nombre": "Matemáticas"
+  },
+  {
+    "idDepartamento": "LEN",
+    "nombre": "Lengua Castellana"
+  }
 ]
