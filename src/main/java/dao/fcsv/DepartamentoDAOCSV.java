@@ -25,6 +25,7 @@ public class DepartamentoDAOCSV implements DepartamentoDAO {
         this.ruta = ruta;
     }
 
+
     @Override
     public ArrayList<Departamento> leerFichero() throws IOException {
         ArrayList<Departamento> departamentos = new ArrayList<>();
