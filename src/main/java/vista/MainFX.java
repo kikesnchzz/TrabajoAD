@@ -26,13 +26,15 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 
 public class MainFX extends Application {
-    // Cambiar dependiendo del tipo de archivo
-    private static final String dondeGuardoLosDatos = "json";
+    private static String dondeGuardoLosDatos;
 
     private final BorderPane root = new BorderPane();
     private CentroEducativo centro;
 
-    public static void main(String[] args){ launch(args); }
+    public static void main(String[] args){
+        dondeGuardoLosDatos = args[0];
+        launch(args);
+    }
 
     @Override public void start(Stage stage){
         try{
